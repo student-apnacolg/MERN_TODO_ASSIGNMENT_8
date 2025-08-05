@@ -69,7 +69,7 @@ This is the **frontend** of the MERN To-Do List App, built using **React**, **Vi
 ## URL for Backend Frontend and Github Repositories
 
 #backend: https://todo-backend-evep.onrender.com/api/tasks
-#Frontend: {'http://localhost:5173', 'https://todo-frontend-steel-eight.vercel.app'}
+#Frontend: "https://todo-frontend-steel-eight.vercel.app"
 #Git Repo: {
   Backend: "https://github.com/student-apnacolg/todo-backend",
   Frontend: "https://github.com/student-apnacolg/todo-frontend"
